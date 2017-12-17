@@ -8,8 +8,6 @@
 ## ナッジ
 
 # 設計
-    
-
 
 # 慣習
 
@@ -38,4 +36,19 @@
 全体の目標を見えるようにする。
 
 
+A:
+
+```plantuml
+@startuml
+Bob -> Alice
+hoge->hoge
+@enduml
+```
+
+```plantuml
+@startuml
+Bob -> Alice
+hoge->hoge
+@enduml
+```
 
